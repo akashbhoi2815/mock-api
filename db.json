@@ -5,9 +5,9 @@
         "brand": "TATA",
         "year": 2018,
         "type": "Nexon",
-        "driven":"2000",
+        "kms":"2000",
         "Description":"Description",
-        "price":200000
+        "Price":200000
       }
     ]
   }
