@@ -9,5 +9,16 @@
         "Description":"Description",
         "Price":200000
       }
+    ],
+    "wishlisted_cars":[
+      {
+        "id": 1,
+        "brand": "TATA",
+        "year": 2018,
+        "type": "Nexon",
+        "kms":"2000",
+        "Description":"Description",
+        "Price":200000
+      }
     ]
   }
