@@ -1,24 +1,14 @@
 {
-    "cars": [
+    "books":[
       {
-        "id": 1,
-        "brand": "TATA",
-        "year": 2018,
-        "type": "Nexon",
-        "kms":"2000",
-        "Description":"Description",
-        "Price":200000
-      }
-    ],
-    "wishlisted_cars":[
-      {
-        "id": 1,
-        "brand": "TATA",
-        "year": 2018,
-        "type": "Nexon",
-        "kms":"2000",
-        "Description":"Description",
-        "Price":200000
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
       }
     ]
   }
